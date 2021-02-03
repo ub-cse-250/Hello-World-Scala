@@ -1,4 +1,4 @@
-package cse250.tests
+package cse250.examples.tests
 
 import org.scalatest.FlatSpec
 import cse250.examples.HelloWorld
